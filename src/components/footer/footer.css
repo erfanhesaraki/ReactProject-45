@@ -1,0 +1,17 @@
+.foot {
+  background-color: #222222;
+}
+
+.Sec2Foot > div > input {
+  outline: none;
+  border: none;
+  border-radius: 5px;
+}
+
+.Sec2Foot > div > button {
+  outline: none;
+  border: none;
+  border-radius: 30px;
+  background-color: #3face4;
+  color: white;
+}
